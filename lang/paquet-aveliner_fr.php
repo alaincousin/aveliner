@@ -6,8 +6,8 @@ if (!defined('_ECRIRE_INC_VERSION')) return;
 $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// A
-	'aveline_description' => 'Collection de noisettes hautement paramétrables et compatibles avec les thèmes Z.',
-	'aveline_slogan' => 'Collection de noisettes compatibles Z'
+	'aveliner_description' => 'Collection de noisettes hautement paramétrables et compatibles avec SPIPr. (ATTENTION : plugin expérimental)',
+	'aveliner_slogan' => 'Collection de noisettes compatibles SPIPr (expérimental)'
 );
 
 ?>

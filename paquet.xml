@@ -1,16 +1,15 @@
 <paquet
-	prefix="aveline"
+	prefix="aveliner"
 	categorie="squelette"
 	version="2.5.0"
-	etat="stable"
+	etat="dev"
 	compatibilite="[3.0.0;3.0.99]"
 	logo="prive/themes/spip/images/aveline-32.png"
 	schema="0.4.2"
 	documentation="http://contrib.spip.net/?article4264"
 >
 
-	<nom>Aveline</nom>
-	<!-- Collection de noisettes compatibles Z -->
+	<nom>Aveline (pour SPIPr)</nom>
 
 	<auteur lien="http://contrib.spip.net/Joseph">Joseph</auteur>
 	<auteur lien="http://contrib.spip.net/Matthieu-Marcillaud">Matthieu Marcillaud</auteur>
